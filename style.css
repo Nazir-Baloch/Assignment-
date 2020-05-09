@@ -1,0 +1,179 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+body{
+    background-color: #eee;
+}
+a{
+    text-decoration: none;
+    color:#fff;
+    
+}
+ul li{
+    list-style: none;
+}
+.topbar{
+    background-color: #316dc3;
+    color: white;
+    padding: 10px;
+}
+
+.topbar i{
+    padding: 0 15px;
+}
+.container {
+    width: 1200px;
+    margin: 0 auto;
+}
+.social{
+    float: left;
+    padding-top: 7px;
+}
+
+.moto{
+    float: left;
+    font-size: 20px;
+    margin-left: 130px;
+    padding: 7px;
+}
+.buttons{
+    float: right;
+    padding-top: 7px;
+}
+.clear{
+    clear: both;
+}
+.buttons a{
+    width: auto;
+    background-color: #eee;
+    color: #000;
+    padding: 5px 15px;
+    text-align: center;
+}
+
+.header{
+background-color: #f7f8fa;
+}
+.logo img{
+    float: left;
+}
+.manu{
+    float: right;
+    margin-top: 26px;
+}
+.logo img{
+    width: 240px;
+}
+.manu ul li  {
+    display: inline-block; 
+}
+.manu ul li a{
+    padding:10px 15px;
+    color: #000;
+    font-size: 18px;
+}
+.manu ul li a:hover{
+    background-color: #316dc3;
+    color: #000;
+    border-radius: 20px;
+}
+.home li a:hover{
+    background-color: #316dc3;
+    color: #000;
+    position: fixed;
+}
+
+.marque-ul{
+    background-color: #316dc3;
+    padding: 5px;
+    color: #fff;
+}
+
+
+h2.main-title{
+    text-align: center;
+    color: #316dc3;
+    margin: 20px 0;
+}
+.second-color{
+    color: #8dc63f;
+}
+.title-icon{
+   margin: 0 auto;
+   max-width: 50px;
+   position: relative;
+}
+.bottom{
+    width: 1200px;
+    margin: auto;
+    font-family: sans-serif;
+    font-size: 20px;
+    background-color: #eee;
+}
+.counter-section{
+       font-size: 14px;
+       font-weight: 500;
+       font-family: sans-serif;
+       line-height: 1.7;
+}
+.food{
+    float:left
+
+}
+.family{
+    float: left;
+}
+.medical{
+    float: right
+}
+.education{
+    float: right;
+}
+.clear{
+    clear: both;
+}
+h5.white-text{
+    color: #fff;
+
+}
+.counter-span-text{
+    color: #8dc63f;
+}
+h2.animate-number{
+    color: #fff;
+}
+.services-section{
+
+}
+h2.blue-text{
+    text-align: center;
+    margin: 0 20px;
+         color: #316dc3;
+}
+.green-text{
+        color: #8dc63f;
+}
+.widget-title-icon{
+    margin: 0 auto;
+    max-width: 50px;
+    position: relative;
+}
+.mission{
+    display: inline-block;
+    padding: 60px 0;
+    color: #316dc3;
+   
+}
+h3.blue-text{
+    color: #316dc3;
+}
+
+.gallery{
+    margin:0 20px;
+}
+.img-2{
+    padding: 20px;
+    margin-bottom: 15px;
+}
